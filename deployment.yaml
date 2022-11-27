@@ -15,7 +15,7 @@ spec:
         app: surveysystem-backend
     spec:
       containers:
-      - image: yang9501/surveysystem:61
+      - image: yang9501/surveysystem:62
         imagePullPolicy: Always
         name: container-0
         ports:
